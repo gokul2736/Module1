@@ -16,4 +16,7 @@ print(men_stepped_on_the_moon)
 
 ## Output
 
+![Output](./Output_img/t5.png)
+
 ## Result
+Thus, the Python program was successfully executed and the expected output was verified.

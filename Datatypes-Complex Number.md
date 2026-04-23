@@ -23,4 +23,7 @@ print(x.imag)
 
 ## Output
 
+![Output](./Output_img/t4.png)
+
 ## Result
+Thus, the Python program was successfully executed and the expected output was verified.

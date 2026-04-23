@@ -27,4 +27,8 @@ print("d:", d)
 ```
 
 ## Output
+
+![Output](./Output_img/t2.png)
+
 ## Result
+Thus, the Python program was successfully executed and the expected output was verified.
